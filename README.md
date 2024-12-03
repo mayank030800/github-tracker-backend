@@ -1,3 +1,3 @@
 # github-tracker
 
-# yet to be updated..
+yet to be updated..
